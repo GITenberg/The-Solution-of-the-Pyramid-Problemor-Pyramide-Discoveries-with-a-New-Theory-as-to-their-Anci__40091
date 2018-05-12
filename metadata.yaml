@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40405'
     url: http://www.gutenberg.org/2009/agents/40405
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40091#The-Solution-of-the-Pyramid-Problemor-Pyramide-Discoveries-with-a-New-Theory-as-to-their-Anci_
 gutenberg_issued: '2012-06-26'
 gutenberg_type: Text
 identifiers:
